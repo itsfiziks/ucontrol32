@@ -6,12 +6,12 @@
             <name>lecture2</name>
             <creation-uuid>0aa5214b-a3d7-4463-99e4-1148ac4c03e2</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions/>
+            <c-extensions>c</c-extensions>
             <cpp-extensions/>
             <header-extensions/>
             <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
-            <sourceEncoding>UTF-8</sourceEncoding>
         </data>
     </configuration>
 </project>
