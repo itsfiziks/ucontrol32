@@ -18,9 +18,6 @@ typedef enum stateTypeEnum{
     led_on, led_off
 } stateType;
 
-/*
- * 
- */
 int main() {
 
     //Define an initial state
