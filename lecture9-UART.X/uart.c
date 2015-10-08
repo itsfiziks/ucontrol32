@@ -9,8 +9,9 @@
 
 void initUART2(){
     RPD3Rbits.RPD3R = 1;    //Maps U2TX to pin 18
+//    U2RXRbits.U2RXR = 0;    //Mapping U2RX to pin 17, J11
     U2BRG = 10;             //Set the baud rate
-    U2MODEbits.PDSEL = 0;   //Parity select (depends on device) (8-N-1)
+    U2MODEbits.PDSEL = 2;   //Parity select (depends on device) (8-N-1)
     U2MODEbits.STSEL = 0;   //One stop bit
     U2MODEbits.UEN = 0;
     U2MODEbits.BRGH = 0;

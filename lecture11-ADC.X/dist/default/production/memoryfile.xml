@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <project>                                  
-  <executable name="dist/default/production/lecture9-UART.X.production.elf">                 
+  <executable name="dist/default/production/lecture11-ADC.X.production.elf">                 
     <memory name="program">                 
       <units>bytes</units>                 
       <length>531968</length>                 
-      <used>3288</used>                     
-      <free>528680</free>                     
+      <used>3724</used>                     
+      <free>528244</free>                     
     </memory>                              
     <memory name="data">              
       <units>bytes</units>                 

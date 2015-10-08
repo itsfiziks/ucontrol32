@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <project>                                  
-  <executable name="dist/default/production/lecture9-UART.X.production.elf">                 
+  <executable name="dist/default/production/lecture13-PWM.production.elf">                 
     <memory name="program">                 
       <units>bytes</units>                 
       <length>531968</length>                 
-      <used>3288</used>                     
-      <free>528680</free>                     
+      <used>3604</used>                     
+      <free>528364</free>                     
     </memory>                              
     <memory name="data">              
       <units>bytes</units>                 
       <length>131072</length>                 
-      <used>4</used>                     
-      <free>131068</free>                     
+      <used>0</used>                     
+      <free>131072</free>                     
     </memory>                              
   </executable>                            
 </project>                                 
