@@ -7,3 +7,6 @@
 <b>lecture6:</b> Delaying with a timer. <br>
 <b>lecture7:</b> Configuring a 32-bit timer with bit operations. <br>
 <b>lecture8:</b> Beginnings of an RTCC implementation (incomplete) <br>
+<b>lecture9:</b> Initializing and sending a character on the UART. <br>
+<b>lecture11:</b> Initializing and using the ADC. <br>
+<b>lecture13:</b> Initializing and using the PWM module with ADC. <br>
