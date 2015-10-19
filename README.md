@@ -10,3 +10,5 @@
 <b>lecture9:</b> Initializing and sending a character on the UART. <br>
 <b>lecture11:</b> Initializing and using the ADC. <br>
 <b>lecture13:</b> Initializing and using the PWM module with ADC. <br>
+<b>lecture14:</b> SPI Initialization. <br>
+<b>lecture15:</b> I2C Read and write to accelorometer.<br>
